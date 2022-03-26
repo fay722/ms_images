@@ -1,0 +1,30 @@
+Arguments: 
+  /opt/homebrew/Cellar/node/17.6.0/bin/node /opt/homebrew/Cellar/yarn/1.22.17_2/libexec/bin/yarn.js add /
+
+PATH: 
+  /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/joya/Documents/apache-maven-3.8.3/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  17.6.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: unsure how to copy this: /dev/aes_0
+      at /opt/homebrew/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:1089:17
+      at Generator.throw (<anonymous>)
+      at step (/opt/homebrew/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:310:30)
+      at /opt/homebrew/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:323:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
